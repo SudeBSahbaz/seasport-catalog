@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Carbon Rowing Oar",
+    "category": "Rowing",
+    "price": "$420",
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+    "description": "Lightweight carbon rowing oar designed for stable and powerful strokes."
+  },
+  {
+    "name": "Single Scull Boat",
+    "category": "Rowing",
+    "price": "$3200",
+    "imageUrl": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+    "description": "Professional single scull rowing boat for training and racing."
+  },
+  {
+    "name": "Inflatable SUP Board",
+    "category": "SUP",
+    "price": "$650",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Portable inflatable stand up paddle board for all water conditions."
+  },
+  {
+    "name": "SUP Paddle",
+    "category": "SUP",
+    "price": "$95",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "description": "Adjustable SUP paddle with lightweight construction."
+  },
+  {
+    "name": "Life Jacket",
+    "category": "Safety",
+    "price": "$75",
+    "imageUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1",
+    "description": "Comfortable life jacket for rowing and paddle sports."
+  },
+  {
+    "name": "Waterproof Dry Bag",
+    "category": "Accessory",
+    "price": "$35",
+    "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+    "description": "Protect your personal belongings from water during training."
+  }
+]
