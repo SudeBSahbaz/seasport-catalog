@@ -52,3 +52,15 @@ Uygulama içerisinde:
 ```bash
 flutter pub get
 flutter run
+
+
+---
+
+# Flutter Sürümü
+
+Bu proje aşağıdaki Flutter ve Dart sürümleri ile hazırlanmıştır:
+
+```bash
+Flutter 3.29.3
+Dart 3.7.2
+```
